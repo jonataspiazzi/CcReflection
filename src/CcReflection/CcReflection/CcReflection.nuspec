@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Jonatas Piazzi</authors>
+    <owners>Jonatas Piazzi</owners>
+    <licenseUrl>https://github.com/jonataspiazzi/CcReflection/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/jonataspiazzi/CcReflection</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Enable features to help in reflection codes.</description>
+    <releaseNotes>First deploy of CcReflection.</releaseNotes>
+    <copyright>Copyright ©Jônatas Piazzi, 2017</copyright>
+    <tags>Reflection CleanCode</tags>
+  </metadata>
+</package>
